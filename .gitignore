@@ -1,0 +1,11 @@
+# Данные (входные файлы и результаты)
+*.xlsx
+*.xls
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
